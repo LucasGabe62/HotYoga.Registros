@@ -1,7 +1,7 @@
 // ============================================================
 // CONFIGURAÇÃO: substitua pela URL real do seu backend
 // ============================================================
-const BASE_URL = 'https://academia-backend-pvnm.onrender.com';
+const BASE_URL = 'https://hotyoga-registros.onrender.com/';
 
 const TREINO_API    = `${BASE_URL}/api/treinos`;
 const EXERCICIO_API = `${BASE_URL}/api/exercicios`;
